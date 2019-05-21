@@ -2,3 +2,5 @@
 
 aws - https://aws.amazon.com
 documentation - https://docs.aws.amazon.com
+
+Please contact naira for more information on training. 
